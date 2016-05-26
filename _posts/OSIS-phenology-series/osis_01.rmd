@@ -68,11 +68,11 @@ unique(phe$phenophaseName)
 
 ```
 
-
 4. Calculate the phenophase
 total Yes of total Individuals
 
 ```{r}
+#yep, this is where i will calculate percentages of individuals with status =yes vs status = no
 
 ```
 
